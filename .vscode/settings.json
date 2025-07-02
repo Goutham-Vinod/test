@@ -1,0 +1,27 @@
+{
+    "editor.fontSize": 35,
+    "terminal.integrated.fontSize": 35,
+    // "window.zoomLevel": 0
+    "editor.glyphMargin": false,
+    "editor.folding": false,
+    "editor.minimap.enabled": false,
+    "errorLens.enabled": false,
+    "editor.quickSuggestions": {
+        "other": false,
+        "comments": false,
+        "strings": false
+    },
+     "workbench.colorTheme":"Default Dark Modern",
+    "editor.suggestOnTriggerCharacters" : false,
+    // "editor.autoClosingBrackets": "never",
+    // "editor.autoClosingQuotes": "never",
+    "editor.autoSurround": "never",
+    "editor.parameterHints.enabled": false,
+    "editor.inlineSuggest.enabled": false,
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false
+    },
+}
+
