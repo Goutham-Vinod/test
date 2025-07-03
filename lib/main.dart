@@ -6,3 +6,4 @@
 // Admin Code 6
 // Admin Code 7
 // Admin Code 8
+// Friend Code
